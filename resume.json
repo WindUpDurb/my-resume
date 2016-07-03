@@ -1,0 +1,88 @@
+{
+  "basics": {
+    "name": "David Urbina",
+    "label": "Full-Stack Javascript Developer",
+    "email": "durbina1991@gmail.com",
+    "phone": "(626) 485-5050",
+    "website": "http://windupdurb.github.io/portfolio-site/",
+    "location": {
+      "address": "1009 Vineland Ave.",
+      "postalCode": "CA 91746",
+      "city": "La Puente",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "windupdurb",
+        "url": "https://github.com/WindUpDurb"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/david-urbina-589327b9"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "University of California, Berkeley",
+      "area": "English",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2012-08-01",
+      "endDate": "2015-05-16",
+      "gpa": "3.4"
+    },
+    {
+      "institution": "Coding House",
+      "area": "Full-Stack Javascript Boot Camp",
+      "startDate": "2016-04-11",
+      "endDate": "2016-07-22"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Drink, Drank, Drunk",
+      "website": "Find it on http://windupdurb.github.io/portfolio-site/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Proficient in:",
+      "keywords": [
+        "Javascript",
+        "MongoDB",
+        "Express.js",
+        "AngularJS",
+        "Node.js",
+        "jQuery",
+        "Mongoose",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Familiar with",
+      "keywords": [
+        "Socket.io",
+        "Ionic",
+        "MySQL",
+        "React"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "The Law Offices of James Silverstein",
+      "position": "Legal Assistant",
+      "startDate": "2015-06-01",
+      "endDate": "2016-04-01"
+    },
+    {
+      "company": "Coding House",
+      "position": "Mentor",
+      "startDate": "2016-06-01",
+      "endDate": "2016-07-22"
+    }
+  ]
+}
